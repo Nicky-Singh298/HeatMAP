@@ -1,0 +1,20 @@
+PODS:
+  - ReachabilitySwift (3)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - ReachabilitySwift (~> 3)
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - ReachabilitySwift
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 398907df23e10e626b660d13b58b6d0d0fea27a5
+
+COCOAPODS: 1.10.1
